@@ -69,7 +69,7 @@ test('get all urls with relative urls',() => {
             <a href="path2">
                 link1
             </a>
-            <a href="path2/path3">
+            <a href="path2/path3">4
                 link1
             </a>
         </body>
@@ -81,3 +81,4 @@ test('get all urls with relative urls',() => {
     expect(actual).toEqual(expected)
 
 })
+

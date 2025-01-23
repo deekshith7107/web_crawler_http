@@ -1,0 +1,14 @@
+{
+  "name": "web_crawler_http",
+  "version": "1.0.0",
+  "description": "learning http by building web crawler",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deekshith",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
